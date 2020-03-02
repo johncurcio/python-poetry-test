@@ -1,6 +1,8 @@
-# Run with
+Run with
+==============
 
-```
-$ poetry install
-$ poetry run start
-```
+
+.. highlight:: shell
+  poetry install
+  poetry run start
+
